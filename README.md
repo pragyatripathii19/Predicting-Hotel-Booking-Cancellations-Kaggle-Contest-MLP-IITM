@@ -1,5 +1,8 @@
 # Hotel Booking Cancellation Prediction
 
+RANK: 26/963
+<img width="641" height="134" alt="image" src="https://github.com/user-attachments/assets/f6c6849c-fbbc-4fa9-bb8e-75b281941af4" />
+
 ## Project Overview
 
 This project aims to predict whether a customer will cancel their hotel booking using machine learning techniques. Accurately predicting cancellations can help hotels optimize resource allocation, reduce revenue loss, and improve customer management.

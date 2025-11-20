@@ -1,9 +1,12 @@
 # Hotel Booking Cancellation Prediction
 
-RANK: 26/963
+RANK: 26/1210
 
 
 <img width="641" height="134" alt="image" src="https://github.com/user-attachments/assets/f6c6849c-fbbc-4fa9-bb8e-75b281941af4" />
+
+<img width="599" height="296" alt="image" src="https://github.com/user-attachments/assets/bd50d492-e8d9-4fb6-9cb9-26a660aa920a" />
+
 
 
 Video Walkthrough: https://drive.google.com/drive/folders/1gtRkcdEqWsN09ifX_5TdFoYZBjTd6IvB?usp=sharing
